@@ -1,0 +1,401 @@
+{
+  "recipes": [
+    {
+      "id": "0000",
+      "themeHexColor": "",
+      "title": "Test Food",
+      "subtitle": "",
+
+      "meal": "",
+      "level": "",
+      "type": "",
+
+      "ingredients": "",
+
+      "steps": [],
+
+      "disclaimer": ""
+    },
+    {
+  "id": "0001",
+  "themeHexColor": "#f5c542",
+  "title": "Egg Fried Rice 🍳",
+  "subtitle": "A foundational fried rice dish that demonstrates basic stir frying techniques and ingredient balance.",
+
+  "meal": "Breakfast",
+  "level": "Easy / Simple",
+  "type": "Fried",
+
+  "ingredients": "Cooked rice, fresh eggs, minced garlic, chopped green onions, soy sauce, neutral cooking oil.",
+
+  "steps": [
+    "Heat a small amount of cooking oil in a pan over medium heat.",
+    "Crack the eggs directly into the pan and gently scramble until fully set.",
+    "Remove the cooked eggs from the pan and set them aside to prevent overcooking.",
+    "Add more oil if necessary, then saute the minced garlic until aromatic.",
+    "Add the cooked rice and break up any clumps while stirring continuously.",
+    "Return the scrambled eggs to the pan and combine evenly with the rice.",
+    "Season with soy sauce and continue stir frying until the rice is evenly coated and heated through.",
+    "Finish by adding green onions, then remove from heat and serve immediately."
+  ],
+
+  "disclaimer": "This dish contains eggs and soy, which are common allergens. Use chilled or day old rice to reduce excess moisture and ensure the rice is reheated thoroughly to prevent foodborne illness."
+},
+{
+  "id": "0002",
+  "themeHexColor": "#7a4a2e",
+  "title": "Chicken Adobo 🍗",
+  "subtitle": "A traditional Filipino dish that highlights slow simmering and balanced savory acidity.",
+
+  "meal": "Dinner",
+  "level": "Medium / Quick",
+  "type": "Proteins",
+
+  "ingredients": "Chicken pieces, soy sauce, vinegar, crushed garlic, bay leaves, whole peppercorns.",
+
+  "steps": [
+    "Marinate the chicken in soy sauce and crushed garlic for at least thirty minutes to build flavor.",
+    "Transfer the chicken and marinade into a pot and bring to a gentle boil over medium heat.",
+    "Add vinegar, bay leaves, and peppercorns without stirring to maintain proper sauce balance.",
+    "Lower the heat and allow the chicken to simmer until tender and fully cooked.",
+    "Reduce the sauce slightly to concentrate flavor, then serve hot with steamed rice."
+  ],
+
+  "disclaimer": "This dish contains soy and may trigger allergies related to soy based products. Ensure the chicken is fully cooked to a safe internal temperature before consumption to avoid foodborne risks."
+},
+{
+  "id": "0003",
+  "themeHexColor": "#4caf50",
+  "title": "Sinigang 🍲",
+  "subtitle": "A sour based soup that emphasizes broth development and vegetable timing.",
+
+  "meal": "Lunch",
+  "level": "Hard / Complex",
+  "type": "Proteins",
+
+  "ingredients": "Pork or shrimp, tamarind, tomatoes, onions, radish, leafy vegetables.",
+
+  "steps": [
+    "Boil the protein in water until partially tender, skimming impurities from the surface.",
+    "Add tomatoes and onions and allow them to soften to build the broth base.",
+    "Stir in tamarind to introduce the signature sour flavor.",
+    "Add vegetables in stages based on cooking time.",
+    "Simmer briefly, season to taste, and serve while hot."
+  ],
+
+  "disclaimer": "This dish may contain shellfish when prepared with shrimp and may include other allergens depending on vegetable selection. Proper handling and thorough cooking of protein ingredients are necessary to ensure food safety."
+},
+{
+  "id": "0004",
+  "themeHexColor": "#8d6e63",
+  "title": "Beef Steak 🥩",
+  "subtitle": "A marinated beef dish that demonstrates quick pan cooking and acidity control.",
+
+  "meal": "Dinner",
+  "level": "Medium / Quick",
+  "type": "Proteins",
+
+  "ingredients": "Thinly sliced beef, soy sauce, calamansi or lemon juice, onions, cooking oil.",
+
+  "steps": [
+    "Marinate the beef in soy sauce and citrus juice to enhance tenderness and flavor.",
+    "Heat oil in a pan over medium high heat.",
+    "Cook the beef briefly until lightly browned, then remove from the pan.",
+    "Saute the onions until softened and aromatic.",
+    "Return the beef to the pan, combine evenly, and serve immediately."
+  ],
+
+  "disclaimer": "This dish contains soy and citrus, which may cause allergic reactions in sensitive individuals. Beef should be cooked to an appropriate level to minimize the risk of bacterial contamination."
+},
+{
+  "id": "0005",
+  "themeHexColor": "#ffb74d",
+  "title": "Saute'd Spam 🥓",
+  "subtitle": "A simple pan cooked protein often prepared as a quick breakfast dish.",
+
+  "meal": "Breakfast",
+  "level": "Easy / Simple",
+  "type": "Fried",
+
+  "ingredients": "Spam, sliced garlic, onions, cooking oil.",
+
+  "steps": [
+    "Slice the spam into even portions for consistent cooking.",
+    "Heat a small amount of oil in a pan over medium heat.",
+    "Fry the spam until lightly crisp on both sides.",
+    "Add garlic and onions and saute briefly until fragrant.",
+    "Remove from heat and serve immediately."
+  ],
+
+  "disclaimer": "This dish is high in sodium and should be consumed in moderation."
+},
+{
+  "id": "0006",
+  "themeHexColor": "#d35400",
+  "title": "Chicken Inasal 🍗",
+  "subtitle": "A grilled Filipino chicken dish known for its smoky aroma and citrus forward marinade.",
+
+  "meal": "Dinner",
+  "level": "Medium / Quick",
+  "type": "Proteins",
+
+  "ingredients": "Chicken pieces, calamansi or lemon juice, garlic, ginger, lemongrass, vinegar, annatto oil.",
+
+  "steps": [
+    "Marinate the chicken with calamansi juice, garlic, ginger, vinegar, and lemongrass.",
+    "Allow the chicken to marinate for several hours or overnight for deeper flavor.",
+    "Preheat a grill or grill pan over medium heat.",
+    "Grill the chicken while basting with annatto oil to enhance color and aroma.",
+    "Cook until the chicken is fully done and lightly charred, then serve hot."
+  ],
+
+  "disclaimer": "Ensure the chicken is cooked thoroughly to a safe internal temperature. Citrus based marinades may cause irritation for sensitive individuals."
+},
+{
+  "id": "0007",
+  "themeHexColor": "#2ecc71",
+  "title": "Gatang Laing 🌿",
+  "subtitle": "A coconut milk based taro leaf dish that emphasizes slow simmering and spice balance.",
+
+  "meal": "Lunch",
+  "level": "Hard / Complex",
+  "type": "Vegetables",
+
+  "ingredients": "Dried taro leaves, coconut milk, coconut cream, garlic, ginger, chili peppers, shrimp paste.",
+
+  "steps": [
+    "Simmer dried taro leaves in coconut milk without stirring until softened.",
+    "Add garlic, ginger, and chili peppers to build flavor.",
+    "Pour in coconut cream and continue simmering gently.",
+    "Season lightly and allow the dish to thicken.",
+    "Serve warm with rice."
+  ],
+
+  "disclaimer": "Taro leaves must be fully cooked to remove natural irritants. This dish may contain shrimp paste depending on preparation."
+}
+,
+{
+  "id": "0008",
+  "themeHexColor": "#f1c40f",
+  "title": "Chicken Gata 🥥",
+  "subtitle": "A creamy coconut milk chicken dish highlighting gentle simmering techniques.",
+
+  "meal": "Dinner",
+  "level": "Medium / Quick",
+  "type": "Proteins",
+
+  "ingredients": "Chicken pieces, coconut milk, garlic, ginger, chili peppers, cooking oil.",
+
+  "steps": [
+    "Saute garlic and ginger in oil until aromatic.",
+    "Add chicken and lightly brown on all sides.",
+    "Pour in coconut milk and bring to a gentle simmer.",
+    "Add chili peppers for mild heat if desired.",
+    "Cook until chicken is tender and sauce thickens slightly."
+  ],
+
+  "disclaimer": "Contains coconut which may cause allergic reactions. Ensure chicken is fully cooked before serving."
+}
+,
+{
+  "id": "0009",
+  "themeHexColor": "#27ae60",
+  "title": "Veggie Gata 🥬",
+  "subtitle": "A plant based coconut milk dish showcasing vegetable timing and sauce control.",
+
+  "meal": "Lunch",
+  "level": "Easy / Simple",
+  "type": "Vegetables",
+
+  "ingredients": "Mixed vegetables, coconut milk, garlic, onions, ginger.",
+
+  "steps": [
+    "Saute garlic and onions until softened.",
+    "Add ginger and stir briefly.",
+    "Pour in coconut milk and bring to a gentle simmer.",
+    "Add vegetables in stages based on firmness.",
+    "Simmer until vegetables are tender and sauce is well combined."
+  ],
+
+  "disclaimer": "Contains coconut milk which may trigger allergies. Avoid overcooking vegetables to preserve texture and nutrients."
+}
+,
+{
+  "id": "0010",
+  "themeHexColor": "#a1887f",
+  "title": "Pork Broth Soup (Nilaga) 🍲",
+  "subtitle": "A clear Filipino pork soup focused on broth clarity and natural flavors.",
+
+  "meal": "Lunch",
+  "level": "Medium / Quick",
+  "type": "Proteins",
+
+  "ingredients": "Pork belly or ribs, onions, potatoes, corn, leafy greens, whole peppercorns.",
+
+  "steps": [
+    "Boil pork in water and skim impurities from the surface.",
+    "Add onions and peppercorns to build broth flavor.",
+    "Add corn and potatoes and cook until tender.",
+    "Finish with leafy greens and simmer briefly.",
+    "Season lightly and serve hot."
+  ],
+
+  "disclaimer": "Pork should be thoroughly cooked to prevent foodborne illness. Skimming the broth helps maintain clarity."
+}
+,
+{
+  "id": "0011",
+  "themeHexColor": "#9ccc65",
+  "title": "Egg with Bitter Melon 🍳",
+  "subtitle": "A quick stir fried dish highlighting bitterness balance and egg texture.",
+
+  "meal": "Breakfast",
+  "level": "Easy / Simple",
+  "type": "Fried",
+
+  "ingredients": "Bitter melon, eggs, garlic, cooking oil.",
+
+  "steps": [
+    "Slice the bitter melon thinly and remove seeds.",
+    "Saute garlic in oil until fragrant.",
+    "Add bitter melon and cook briefly to soften.",
+    "Pour in beaten eggs and gently scramble.",
+    "Cook until eggs are set and serve immediately."
+  ],
+
+  "disclaimer": "Bitter melon has a strong flavor that may not be suitable for everyone. Eggs should be fully cooked before consumption."
+}
+,
+{
+  "id": "0012",
+  "themeHexColor": "#5d4037",
+  "title": "Paksiw 🐟",
+  "subtitle": "A vinegar based Filipino dish emphasizing preservation and acidity control.",
+
+  "meal": "Dinner",
+  "level": "Easy / Simple",
+  "type": "Seafood",
+
+  "ingredients": "Fish or pork, vinegar, garlic, ginger, bay leaves, whole peppercorns.",
+
+  "steps": [
+    "Place protein in a pot with vinegar, garlic, ginger, bay leaves, and peppercorns.",
+    "Bring to a boil without stirring.",
+    "Lower heat and simmer until protein is fully cooked.",
+    "Allow flavors to meld before serving.",
+    "Serve warm with rice."
+  ],
+
+  "disclaimer": "Fish dishes may contain bones and common allergens. Avoid stirring early to maintain proper vinegar balance."
+},
+{
+  "id": "0013",
+  "themeHexColor": "#f9c74f",
+  "title": "Leche Flan 🍮",
+  "subtitle": "A classic Filipino custard dessert with smooth texture and caramel topping.",
+
+  "meal": "Dessert",
+  "level": "Medium / Quick",
+  "type": "Dairy",
+
+  "ingredients": "Egg yolks, condensed milk, evaporated milk, sugar, vanilla.",
+
+  "steps": [
+    "Melt sugar until golden and pour into a mold.",
+    "Mix egg yolks, condensed milk, evaporated milk, and vanilla.",
+    "Strain mixture and pour into the caramel lined mold.",
+    "Steam until set.",
+    "Cool before serving."
+  ],
+
+  "disclaimer": "Contains eggs and dairy. Avoid overcooking to maintain a smooth texture."
+},
+{
+  "id": "0014",
+  "themeHexColor": "#90dbf4",
+  "title": "Halo Halo 🍧",
+  "subtitle": "A refreshing shaved ice dessert layered with sweet fruits and milk.",
+
+  "meal": "Dessert",
+  "level": "Easy / Simple",
+  "type": "Fruits",
+
+  "ingredients": "Shaved ice, sweetened fruits, jellies, milk, ube ice cream.",
+
+  "steps": [
+    "Place fruits and jellies in a glass.",
+    "Add shaved ice on top.",
+    "Pour milk over the ice.",
+    "Top with ube ice cream.",
+    "Mix before eating."
+  ],
+
+  "disclaimer": "Contains dairy. Best served immediately to preserve texture."
+},
+{
+  "id": "0015",
+  "themeHexColor": "#f28482",
+  "title": "Bibingka 🎂",
+  "subtitle": "A baked rice cake with coconut flavor traditionally served warm.",
+
+  "meal": "Dessert",
+  "level": "Medium / Quick",
+  "type": "Dairy",
+
+  "ingredients": "Rice flour, coconut milk, sugar, eggs, butter, salted egg.",
+
+  "steps": [
+    "Mix rice flour, coconut milk, sugar, and eggs.",
+    "Pour batter into a greased pan.",
+    "Top with salted egg slices.",
+    "Bake until set.",
+    "Brush with butter before serving."
+  ],
+
+  "disclaimer": "Contains eggs and dairy. Serve warm for best flavor."
+},
+{
+  "id": "0016",
+  "themeHexColor": "#aaaaee",
+  "title": "Puto 🍥",
+  "subtitle": "A soft steamed rice cake with mild sweetness.",
+
+  "meal": "Snack",
+  "level": "Easy / Simple",
+  "type": "Dairy",
+
+  "ingredients": "Rice flour, sugar, baking powder, coconut milk.",
+
+  "steps": [
+    "Mix all ingredients until smooth.",
+    "Pour into small molds.",
+    "Steam until fluffy.",
+    "Cool slightly before serving."
+  ],
+
+  "disclaimer": "Contains coconut milk. Ensure full steaming to avoid raw flour taste."
+}
+,
+{
+  "id": "0017",
+  "themeHexColor": "#e9c46a",
+  "title": "Cassava Cake 🍰",
+  "subtitle": "A dense baked dessert made from grated cassava and coconut milk.",
+
+  "meal": "Dessert",
+  "level": "Medium / Quick",
+  "type": "Dairy",
+
+  "ingredients": "Grated cassava, coconut milk, condensed milk, eggs, sugar.",
+
+  "steps": [
+    "Mix all ingredients until combined.",
+    "Pour into a greased baking dish.",
+    "Bake until firm and lightly golden.",
+    "Cool before slicing."
+  ],
+
+  "disclaimer": "Cassava must be fully cooked. Contains dairy and eggs."
+}
+  ]
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <title>RECIPE BOOK JS</title>
+</head>
+<body>
+    <header>
+        <div class="headerClass">
+            <h1>Nico's Essentials: COOK BOOK 🍽️📖</h1>
+            <p>101.Projects Nico Castro: RecipeBook JS</p>
+        </div>
+        <div class="option">
+    <div class="filteringOption">
+            <div class="optHeader" >Options: </div>
+            <div class="options" id="level">Level</div>
+            <div class="options" id="types">Types</div>
+            <div class="options" id="meals">Meals</div>
+    </div>
+    <div class="selectionOption">
+            <div id="levelOptions" class="selectionBox">
+            <ul>
+                <li>Easy / Simple</li>
+                <li>Medium / Quick</li>
+                <li>Hard / Complex</li>
+                <li>Show All</li>
+            </ul>
+            </div>
+            <div id="typeOptions" class="selectionBox">
+            <ul>
+                <li>Dairy</li>
+                <li>Proteins</li>
+                <li>Fruits</li>
+                <li>Vegetables</li>
+                <li>Fried</li>
+                <li>Seafoods</li>
+                <li>Show All</li>
+            </ul>
+            </div>
+            <div id="mealOptions" class="selectionBox">
+            <ul>
+                <li>Breakfast</li>
+                <li>Lunch</li>
+                <li>Dinner</li>
+                <li>Snack</li>
+                <li>Dessert</li>
+                <li>Show All</li>
+            </ul>
+            </div>
+    </div>
+    </div>
+ </div>
+        </div>
+    </header>
+ 
+    <main>
+        <div class="searchBox">
+            <p>Find: </p>
+            <input class="searchBar" type="text" placeholder="Search here..."></input>
+        </div>
+            <div class="foodGrid">
+            <!-- <div class="food"><span>Egg Fried Rice</span></div> -->
+            </div>
+            
+            <div>Welcome! Click/search the food you wanted to see.. Or you can use the filtering option above. Enjoy!</div>
+    </main>
+    
+    <div id="modal">
+    <div class="recipePage">
+        <div class="goBackButton"><p>❌</p></div>
+        <div class="recipeHeader">
+        <div class="hLeft">
+        <h2 class="titleContent">FOOD TITLE</h2>
+        <p class="subtitleContent">Sub Title - Description</p>
+        </div>
+
+        <div class="hRight">
+            <p><span style="font-weight:bold">Meal: </span><span class="mealContent"></span></p>
+            <p><span style="font-weight:bold">Level: </span><span class="levelContent"></span></p>
+            <p><span style="font-weight:bold">Type: </span><span class="typeContent"></span></p>
+        </div>
+        </div>
+    <hr>
+        <div class="ingredients">
+            <span style="font-weight:bold">Ingredients: </span><span class="ingredientsContent">Pop</span> 
+        </div>
+    <hr>
+        <div class="steps">
+            <span style="font-weight:bold">Steps:</span>
+            <div class="stepBox">
+                <ol class="stepsContent">
+                </ol>
+            </div>
+        </div>
+ <hr>
+        <div class="disclaimer"> <span style="font-weight:bold; color:red">Disclaimer: </span><span class="disclaimerContent">Pop</span> 
+        </div>
+    </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
