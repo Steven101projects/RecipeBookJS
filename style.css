@@ -33,7 +33,14 @@ header {
 }
 
 h1 {
-    font-size: 3.7rem;
+    font-size: 3rem;
+}
+
+
+@media (max-width: 768px) {
+h1 {
+    font-size: 2rem;
+}
 }
 
 .headerClass p {
@@ -48,7 +55,7 @@ h1 {
 
 .options {
     display: flex;
-    padding: 2px 49px;
+    padding: 2px 40px;
     border-color: rgb(195, 195, 195);
     border-style: solid;
     background-color: antiquewhite;
@@ -85,7 +92,7 @@ h1 {
     background-color: blue;
     position: absolute;
     right: 21px;
-    width: 300px;
+    width: 250px;
     text-align: center;
 }
 
@@ -296,4 +303,9 @@ hr {
 .disclaimer {
     padding: 20px;
     text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
 }

@@ -146,8 +146,8 @@ function Sorting(){
   }
 
   for(const t of typeOptions){
-          if(l.innerHTML === "Show All"){
-        console.log(l.innerHTML)
+          if(t.innerHTML === "Show All"){
+        console.log(t.innerHTML)
         ViewRecipes(loadedRecipes);
         return;
       }
@@ -157,8 +157,8 @@ function Sorting(){
     })
   }
   for(const m of mealOptions){
-          if(l.innerHTML === "Show All"){
-        console.log(l.innerHTML)
+          if(m.innerHTML === "Show All"){
+        console.log(m.innerHTML)
         ViewRecipes(loadedRecipes);
         return;
       }
